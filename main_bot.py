@@ -71,13 +71,13 @@ def weather(message):
         bot.send_message(message.chat.id,weather_message)
     except Exception as e:
         eror = "Произошла ошибка при выводе данных или при неверном названии города .Перезапустите бота и запишите ещё раз название города"
-        bot.reply_to(eror)
+        bot.reply_to(e,eror=eror)
 try:
     if __name__ == "__main__":
             bot.polling()
             bot.run(debug=True)
 except Exception as e:
     print("Произошла ошибка при выводе данных")
-    bot.send_message("Наверное произошёл сбой в программе")
+    bot.send_message(e,"Наверное произошёл сбой в программе")
     
     
