@@ -1,0 +1,298 @@
+
+Name                                                                   AppID                                                                                                               
+----                                                                   -----                                                                                                               
+Firefox                                                                308046B0AF4A39CB                                                                                                    
+????????? ???????? Firefox                                             308046B0AF4A39CB;PrivateBrowsingAUMID                                                                               
+AdGuard                                                                AdGuard                                                                                                             
+AdGuard VPN                                                            AdGuardVPN                                                                                                          
+Assassins Creed Directors Cut Edition                                  C:\Games\Assassins Creed Directors Cut Edition\GameLauncher.exe                                                     
+??????? The Chronicles Of Myrtana - Archolos                           C:\Games\Cyberpunk 2077The Chronicles Of Myrtana Archolos\unins000.exe                                              
+????????? Cyberpunk 2077                                               C:\Games\Cyberpunk 2077\bin\x64\Cyberpunk2077.exe                                                                   
+Cyberpunk 2077                                                         C:\Games\Cyberpunk 2077\REDprelauncher.exe                                                                          
+???????????????? Cyberpunk 2077                                        C:\Games\Cyberpunk 2077\unins000.exe                                                                                
+????????? Fallout - New Vegas                                          C:\Games\Fallout - New Vegas\launcher.exe                                                                           
+????????? Fallout New Vegas                                            C:\Games\Fallout New Vegas\FalloutNV.exe                                                                            
+????????? Launcher Fallout New Vegas                                   C:\Games\Fallout New Vegas\launcher.exe                                                                             
+???????????????? Fallout New Vegas                                     C:\Games\Fallout New Vegas\unins000.exe                                                                             
+Ghost of Tsushima DIRECTORS CUT                                        C:\Games\Ghost of Tsushima DIRECTORS CUT\GhostOfTsushima.exe                                                        
+????????? God of War Ragnarok                                          C:\Games\God of War Ragnarok\GoWR.exe                                                                               
+????????? Grand Theft Auto IV                                          C:\Games\Grand Theft Auto IV\LaunchGTAIV.exe                                                                        
+??????? Grand Theft Auto IV                                            C:\Games\Grand Theft Auto IV\unins000.exe                                                                           
+????????? Grand Theft Auto San Andreas                                 C:\Games\Grand Theft Auto San Andreas\gta_sa.exe                                                                    
+???????????????? Grand Theft Auto San Andreas                          C:\Games\Grand Theft Auto San Andreas\unins000.exe                                                                  
+????????? GTA IV Episodes from Liberty City                            C:\Games\GTA IV Episodes from Liberty City\GameLauncher.exe                                                         
+???????????????? GTA IV Episodes from Liberty City                     C:\Games\GTA IV Episodes from Liberty City\unins000.exe                                                             
+GTA Vice City Nextgen Edition                                          C:\Games\GTA Vice City Nextgen Edition\vcNElaunch.exe                                                               
+?????????Mortal Kombat XL                                              C:\Games\Mortal Kombat XL\Binaries\Retail\MK10.exe                                                                  
+M[FR] ??????????                                                       C:\Games\M[FR]\M[FR] Launcher.exe                                                                                   
+Save Tool                                                              C:\Games\Recast\SaveTool.EXE                                                                                        
+Skyrim (????)                                                          C:\Games\Recast\skse_loader.exe                                                                                     
+??????? (?????????)                                                    C:\Games\Recast\SkyrimLauncher.exe                                                                                  
+F.A.Q.                                                                 C:\Games\Recast\Skyrim\F.A.Q.txt                                                                                    
+???????????????? Skyrim                                                C:\Games\Recast\unins000.exe                                                                                        
+S.T.A.L.K.E.R - OP_OGSR                                                C:\Games\S.T.A.L.K.E.R - OP_OGSR\bin_x64\xrEngine.exe                                                               
+???????? ??????? (?? OGSR)                                             C:\Games\S.T.A.L.K.E.R - OP_OGSR\JSGME.exe                                                                          
+????????? Sekiro                                                       C:\Games\Sekiro\sekiro.exe                                                                                          
+??????? Sekiro                                                         C:\Games\Sekiro\unins000.exe                                                                                        
+Wrye Bash - Skyrim                                                     C:\Games\Skyrim Evolution\Mopy\Wrye Bash.exe                                                                        
+Skyrim Evolution                                                       C:\Games\Skyrim Evolution\Skyrim Evolution Launcher.exe                                                             
+Wrye Bash - SkyrimSE                                                   C:\Games\Skyrim Special Edition Mods\Mopy\Wrye Bash.exe                                                             
+????????? Star Wars The Force Unleashed                                C:\Games\Star Wars The Force Unleashed\SWTFU.exe                                                                    
+The Elder Scrolls - Skyrim                                             C:\Games\The Elder Scrolls - Skyrim\SkyrimSELauncher.exe                                                            
+????????? The Forest                                                   C:\Games\The Forest\GameLauncher.exe                                                                                
+???????????????? The Forest                                            C:\Games\The Forest\unins000.exe                                                                                    
+????????? The Witcher 3 Wild Hunt                                      C:\Games\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe                                                               
+??????? The Witcher 3 Wild Hunt                                        C:\Games\The Witcher 3 Wild Hunt\unins000.exe                                                                       
+????????? Wolfenstein II The New Colossus                              C:\Games\Wolfenstein II The New Colossus\NewColossus_x64vk.exe                                                      
+Grand Theft Auto IV Episodes from Liberty City                         C:\Grand Theft Auto IV Episodes from Liberty City\EFLC\LaunchEFLC.exe                                               
+????????? Grand Theft Auto Liberty City                                C:\Grand Theft Auto Liberty City\LaunchEFLC.exe                                                                     
+??????? Grand Theft Auto Liberty City                                  C:\Grand Theft Auto Liberty City\unins000.exe                                                                       
+Mod Organizer                                                          C:\Modding\MO2\ModOrganizer.exe                                                                                     
+Uninstall Mod Organizer                                                C:\Modding\MO2\unins000.exe                                                                                         
+?????????? ?????????                                                   C:\music_corect\ASIO4ALL v2\a4apanel.exe                                                                            
+Nexus Mod Manager                                                      C:\Nehrim\Nexus Mod Manager\NexusClient.exe                                                                         
+Uninstall Nexus Mod Manager                                            C:\Nehrim\Nexus Mod Manager\uninstall\unins000.exe                                                                  
+Oblivion Mod Manager                                                   C:\Oblivion\OblivionModManager.exe                                                                                  
+NIF viewer                                                             C:\Oblivion\obmm\NifViewer.exe                                                                                      
+obmm Readme                                                            C:\Oblivion\obmm\obmm.chm                                                                                           
+Uninstall Oblivion Mod Manager                                         C:\Oblivion\obmm\uninstall\unins000.exe                                                                             
+Wrye Bash - Oblivion                                                   C:\Office2013\Oblivion\Mopy\Wrye Bash.exe                                                                           
+??????? (?????????)                                                    C:\Office2013\Oblivion\OblivionLauncher.exe                                                                         
+Oblivion (OBSE)                                                        C:\Office2013\Oblivion\obse_loader.exe                                                                              
+???????????????? Oblivion                                              C:\Office2013\Oblivion\unins000.exe                                                                                 
+????????? S.T.A.L.K.E.R. Shadow of Chernobyl                           C:\S.T.A.L.K.E.R. Shadow of Chernobyl\bin\XR_3DA.exe                                                                
+??????? S.T.A.L.K.E.R. Shadow of Chernobyl                             C:\S.T.A.L.K.E.R. Shadow of Chernobyl\unins000.exe                                                                  
+Skyrim Special Edition                                                 C:\Skyrim Special Edition\skse64_loader.exe                                                                         
+????????? The Elder Scrolls V Skyrim - Special Edition                 C:\SKYRIM\Old Good Skyrim (1.3.1)\The Elder Scrolls V Skyrim - Special Edition\SkyrimSE.exe                         
+??????? The Elder Scrolls V Skyrim - Special Edition                   C:\SKYRIM\Old Good Skyrim (1.3.1)\The Elder Scrolls V Skyrim - Special Edition\unins000.exe                         
+Steam                                                                  C:\Steam\UnoSetup.exe                                                                                               
+?????                                                                  C:\Users\Masret\AppData\Local\Kumir\kumir.exe                                                                       
+???????? ??????                                                        C:\Users\Masret\AppData\Local\Kumir\taskEdit.exe                                                                    
+NVIDIA GeForce NOW                                                     C:\Users\Masret\AppData\Local\NVIDIA Corporation\GeForceNOW\CEF\GeForceNOW.exe                                      
+CCleaner                                                               C:\Users\Masret\AppData\Local\Programs\newlan\newlan.exe                                                            
+Uninstall                                                              C:\Users\Masret\AppData\Local\Programs\Nicepage\Uninstall Nicepage.exe                                              
+pusk_2                                                                 C:\Users\Masret\AppData\Local\Programs\Python\Python310\dist\pusk_2.exe                                             
+Python 3.10 (64-bit)                                                   C:\Users\Masret\AppData\Local\Programs\Python\Python310\python.exe                                                  
+Python 3.11 Manuals (32-bit)                                           C:\Users\Masret\AppData\Local\Programs\Python\Python311-32\Doc\html\index.html                                      
+Python 3.11 (32-bit)                                                   C:\Users\Masret\AppData\Local\Programs\Python\Python311-32\python.exe                                               
+????????? ???                                                          C:\Users\Masret\AppData\Local\Programs\????????? ???\ArchRar.exe                                                    
+???????????????? Telegram                                              C:\Users\Masret\AppData\Roaming\Telegram Desktop\unins000.exe                                                       
+uTorrent Web                                                           C:\Users\Masret\AppData\Roaming\uTorrent Web\utweb.exe                                                              
+Coffee Talk                                                            C:\Users\Masret\Downloads\Mount_Blade_Warband_2.059_(47190)_win_gog\Coffee Talk\CoffeeTalk.exe                      
+Mount and Blade - Warband                                              C:\Users\Masret\Downloads\Mount_Blade_Warband_2.059_(47190)_win_gog\Mount and Blade - Warband\mb_warband.exe        
+??????? Mount and Blade - Warband                                      C:\Users\Masret\Downloads\Mount_Blade_Warband_2.059_(47190)_win_gog\Mount and Blade - Warband\unins000.exe          
+uTorrent                                                               C:\uTorrent\uTorrent\uTorrent.exe                                                                                   
+Nicepage                                                               com.electron.nicepage                                                                                               
+Outline                                                                com.electron.outline-client                                                                                         
+Vortex                                                                 com.nexusmods.vortex                                                                                                
+NVIDIA                                                                 com.nvidia.nvapp                                                                                                    
+Run_CSGO                                                               Embarcadero.DesktopToasts.FE61AFD0                                                                                  
+Git for Windows                                                        GitForWindows.Updater                                                                                               
+HP ePrint SW                                                           HP.ePrint.HPePrint                                                                                                  
+Steam Support Center                                                   http://support.steampowered.com/                                                                                    
+Support                                                                http://www.gog.com/support/mount_blade_warband                                                                      
+???? Star Wars - The Force Unleashed 2 ? ?????????                     http://zlofenix.org/forum/index.php?showuser=12                                                                     
+Git FAQs (Frequently Asked Questions)                                  https://github.com/git-for-windows/git/wiki/FAQ                                                                     
+Homepage                                                               https://mhoefs.eu                                                                                                   
+LagoFast                                                               JUNYUN.LIMITED.LagoFast                                                                                             
+???????                                                                Microsoft.AutoGenerated.{05FBCD0F-AE95-AE3D-6644-7896FE4CD5BF}                                                      
+????????? ???????? ????????????                                        Microsoft.AutoGenerated.{0DB9BCBD-74BB-1147-F43B-3CAFDA90A57E}                                                      
+Git Bash                                                               Microsoft.AutoGenerated.{0FDD9C6B-656B-0F1F-AB08-B1CDBB7067B3}                                                      
+The Chronicles Of Myrtana - Archolos                                   Microsoft.AutoGenerated.{11ECF3F2-4BE7-08D1-8096-801AE95A1152}                                                      
+Cry of Fear [??????? ?????? ????]                                      Microsoft.AutoGenerated.{12719FDF-5C02-4246-DB5F-39693F1C282B}                                                      
+Gothic Novus                                                           Microsoft.AutoGenerated.{1D676C80-61BA-FA42-588B-F80F0E6F6BCD}                                                      
+Git CMD                                                                Microsoft.AutoGenerated.{29591C0F-7C09-B655-C0EB-8544FCA7D1DE}                                                      
+Python 3.10 Module Docs (64-bit)                                       Microsoft.AutoGenerated.{2B8808AB-3E1C-BC83-F33D-8CCA04335C88}                                                      
+Uninstall Zoom Workplace                                               Microsoft.AutoGenerated.{2C2740AB-AE63-A619-6C4E-41D5A0522C75}                                                      
+??????????? ???????                                                    Microsoft.AutoGenerated.{40D5C9D0-AF1C-1ADC-3C79-992C0E52FF6E}                                                      
+Python 3.11 Module Docs (32-bit)                                       Microsoft.AutoGenerated.{537928B6-8B2B-2010-A7CF-CE62DC26ECD5}                                                      
+Novus_alter_rus                                                        Microsoft.AutoGenerated.{54A3254C-B69A-4D91-4EA9-8C2A81E5F7FF}                                                      
+Star Wars - The Force Unleashed 2                                      Microsoft.AutoGenerated.{59EA938B-7F10-68EA-9C6F-80A3471F028F}                                                      
+Wrye Bash - SkyrimSE (Debug Log)                                       Microsoft.AutoGenerated.{5A2C9493-9616-2929-D282-082DDEE73DCE}                                                      
+????????? ?????                                                        Microsoft.AutoGenerated.{600A9E7E-A9B2-0BEE-56C1-545351DEA529}                                                      
+????? (????? ???????)                                                  Microsoft.AutoGenerated.{6146A36C-4920-8B1D-2273-DA3544932AB7}                                                      
+IDLE (Python 3.11 32-bit)                                              Microsoft.AutoGenerated.{6C4DDFCD-4870-DCA0-0C5B-B0CFF2E16C33}                                                      
+Nexus Mod Manager (Trace Mode)                                         Microsoft.AutoGenerated.{7177E5A8-668B-C8B1-94E9-CF00C1FB5DF3}                                                      
+????????                                                               Microsoft.AutoGenerated.{7F3D58D5-1AAD-4A49-0ACD-56A815A14AAF}                                                      
+???????? ???????                                                       Microsoft.AutoGenerated.{80352300-3444-8612-1EAC-6EB176FD6929}                                                      
+????????                                                               Microsoft.AutoGenerated.{80360B7D-59BD-7FC9-688D-ECB3EAE72230}                                                      
+Wrye Bash - Skyrim (Debug Log)                                         Microsoft.AutoGenerated.{8A04F037-2537-9761-E062-B8DE9CE88AB8}                                                      
+IDLE (Python 3.10 64-bit)                                              Microsoft.AutoGenerated.{8B075579-0914-9FDE-0814-CA5E850443AA}                                                      
+?????????? ???????????                                                 Microsoft.AutoGenerated.{8C37ED39-5477-D859-E853-7369A4CF9421}                                                      
+Run launcher                                                           Microsoft.AutoGenerated.{9285052F-F519-0388-75D3-C7F09363DC7C}                                                      
+??????? ????????                                                       Microsoft.AutoGenerated.{953596EE-7B1B-AC76-427E-105662057031}                                                      
+BSA browser                                                            Microsoft.AutoGenerated.{AFCF28DF-A065-F7C5-E3F9-FDA2A911BF57}                                                      
+?????? Counter-Strike 1.6                                              Microsoft.AutoGenerated.{BFDCF3BA-62DE-0486-763D-BE69364EB00D}                                                      
+Python 3.10 Manuals (64-bit)                                           Microsoft.AutoGenerated.{C7CFDB95-C192-D92C-8DC4-3769CDA08235}                                                      
+?????????  Red Dead Redemption 2                                       Microsoft.AutoGenerated.{CBD62798-E7FB-1D35-E0A7-C2F4C7BBB065}                                                      
+Wrye Bash - Oblivion (Debug Log)                                       Microsoft.AutoGenerated.{CD7C91C2-C745-9F35-31D6-613666FEBB24}                                                      
+Windows Speech Recognition                                             Microsoft.AutoGenerated.{DAA168DE-4306-C8BC-8C11-B596240BDDED}                                                      
+Oblivion Mod Manager (Safe Mode)                                       Microsoft.AutoGenerated.{E030A24A-41E5-87D0-1D37-48E81ABBDF49}                                                      
+????????? ???????                                                      Microsoft.AutoGenerated.{E9C334D4-CC95-3C15-36E0-30F3DCB7FEE3}                                                      
+Conflict detector                                                      Microsoft.AutoGenerated.{F29F46BA-1D73-D21E-9C76-34BAE267E27F}                                                      
+BSA creator                                                            Microsoft.AutoGenerated.{FB8B2920-F775-2907-638E-62FBFE847AB8}                                                      
+Internet Explorer                                                      Microsoft.InternetExplorer.Default                                                                                  
+Outlook 2013                                                           Microsoft.Office.OUTLOOK.EXE.15                                                                                     
+Visual Studio Installer                                                Microsoft.VisualStudio.Installer                                                                                    
+Visual Studio Code                                                     Microsoft.VisualStudioCode                                                                                          
+???????? ????????????????? Windows                                     Microsoft.Windows.AdministrativeTools                                                                               
+???? ?????????                                                         Microsoft.Windows.Computer                                                                                          
+?????? ??????????                                                      Microsoft.Windows.ControlPanel                                                                                      
+?????????                                                              Microsoft.Windows.Explorer                                                                                          
+Windows Media Player                                                   Microsoft.Windows.MediaPlayer32                                                                                     
+??????????? ? ?????????? ???????? ?????                                Microsoft.Windows.RemoteDesktop                                                                                     
+?????????                                                              Microsoft.Windows.Shell.RunDialog                                                                                   
+Microsoft Edge                                                         MSEdge                                                                                                              
+??????? Opera GX                                                       OperaSoftware.OperaGXWebBrowser.1723762891                                                                          
+??????? Opera                                                          OperaSoftware.OperaWebBrowser.1724535557                                                                            
+Grand Theft Auto IV The Complete Edition                               steam://rungameid/12210                                                                                             
+Tiny Bunny                                                             steam://rungameid/1421250                                                                                           
+??????? ??????? ??????? - ?????????                                    steam://rungameid/1475230                                                                                           
+Cry of Fear                                                            steam://rungameid/223710                                                                                            
+Dying Light                                                            steam://rungameid/239140                                                                                            
+The Forest                                                             steam://rungameid/242760                                                                                            
+Jujutsu Kaisen Cursed Clash DEMO                                       steam://rungameid/2707170                                                                                           
+Misha's incident                                                       steam://rungameid/2723520                                                                                           
+Buckshot Roulette                                                      steam://rungameid/2835570                                                                                           
+Katawa Shoujo                                                          steam://rungameid/3068300                                                                                           
+Everlasting Summer                                                     steam://rungameid/331470                                                                                            
+Batman Arkham Asylum GOTY Edition                                      steam://rungameid/35140                                                                                             
+Wallpaper Engine                                                       steam://rungameid/431960                                                                                            
+Soundpad Demo                                                          steam://rungameid/632810                                                                                            
+Super Bunny Man                                                        steam://rungameid/673750                                                                                            
+Counter-Strike 2                                                       steam://rungameid/730                                                                                               
+Telegram                                                               Telegram.TelegramDesktop                                                                                            
+Ubisoft Connect                                                        Ubisoft.UPC.MainProcess                                                                                             
+uTorrent                                                               uTorrentPro                                                                                                         
+Yandex                                                                 Yandex.DHTULKX6MTKU4DJ5R6UN4TOG5U                                                                                   
+??????.????                                                            Yandex.Disk.Uploader                                                                                                
+???????? ????????? Office 2013                                         yh1BV6!!!!!!!!!MKKSkSetLanguageFiles<                                                                               
+????? ???????? Office 2013                                             yh1BV6!!!!!!!!!MKKSkWxpFiles<                                                                                       
+Zoom Workplace                                                         zoom.us.Zoom Video Meetings                                                                                         
+??????? ????????                                                       {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\charmap.exe                                                                  
+??????? ?????                                                          {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cleanmgr.exe                                                                 
+????????? ??????                                                       {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe                                                                      
+?????? ???????????                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\comexp.msc                                                                   
+??????????? ??????                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\dfrgui.exe                                                                   
+????????? iSCSI                                                        {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\iscsicpl.exe                                                                 
+???????? ????                                                          {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\magnify.exe                                                                  
+???????? ???????? ?????? Windows                                       {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\MdSched.exe                                                                  
+???????????? ???????                                                   {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msconfig.exe                                                                 
+???????? ? ???????                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msinfo32.exe                                                                 
+Paint                                                                  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\mspaint.exe                                                                  
+???????? ??????                                                        {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\narrator.exe                                                                 
+???????                                                                {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe                                                                  
+????????? ?????? ODBC (64-????????? ??????)                            {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\odbcad32.exe                                                                 
+???????? ??????????                                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\osk.exe                                                                      
+?????????? ???????                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\printmanagement.msc                                                          
+???????? ?????? ????????                                               {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\psr.exe                                                                      
+??????? ??????                                                         {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\quickassist.exe                                                              
+???? ??????????????                                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\RecoveryDrive.exe                                                            
+??????                                                                 {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\services.msc                                                                 
+???????                                                                {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SnippingTool.exe                                                             
+??????? ??????????? ????????? Windows ? ?????? ?????????? ???????????? {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WF.msc                                                                       
+????? ? ????????????                                                   {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WFS.exe                                                                      
+Windows PowerShell                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe                                        
+Windows PowerShell ISE                                                 {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\PowerShell_ISE.exe                                    
+Math Input Panel                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\Common Files\Microsoft Shared\Ink\mip.exe                                    
+Git GUI                                                                {6D809377-6AF0-444B-8957-A3773F02200E}\Git\cmd\git-gui.exe                                                          
+Git Release Notes                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\Git\ReleaseNotes.html                                                        
+??????                                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\Gothic\system\GothicStarter.exe                                              
+??????? Novus_alter_rus                                                {6D809377-6AF0-444B-8957-A3773F02200E}\Gothic\system\unins000.exe                                                   
+PyCharm 2023.1.2                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\JetBrains\PyCharm 2023.1.2\bin\pycharm64.exe                                 
+Guitar Rig 6                                                           {6D809377-6AF0-444B-8957-A3773F02200E}\Native Instruments\Guitar Rig 6\Guitar Rig 6.exe                             
+???????? ????????????????? ??                                          {6D809377-6AF0-444B-8957-A3773F02200E}\PCHealthCheck\PCHealthCheck.exe                                              
+Rockstar Games Launcher                                                {6D809377-6AF0-444B-8957-A3773F02200E}\Rockstar Games\Launcher\LauncherPatcher.exe                                  
+WordPad                                                                {6D809377-6AF0-444B-8957-A3773F02200E}\Windows NT\Accessories\wordpad.exe                                           
+????????? Assassins Creed 4 Black Flag                                 {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Assassins Creed 4 Black Flag\GameLauncher.exe                                
+Assassins Creed IV Black Flag                                          {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Assassins Creed IV Black Flag\AC4BFSP.exe                                    
+Call of Duty 4 - Modern Warfare                                        {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Call of Duty 4 - Modern Warfare\iw3mp.exe                                    
+Uninstall                                                              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Common Files\Wrye Bash\uninstall.exe                                         
+????????? Dark Souls Remastered                                        {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Dark Souls Remastered\DarkSoulsRemastered.exe                                
+???????????????? Dark Souls Remastered                                 {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Dark Souls Remastered\unins000.exe                                           
+????????? Elden Ring                                                   {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Elden Ring\Game\eldenring.exe                                                
+????????? Ghost of Tsushima DIRECTORS CUT                              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Ghost of Tsushima DIRECTORS CUT\GhostOfTsushima.exe                          
+????????? God of War                                                   {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\God of War\GoW.exe                                                           
+???????????????? God of War                                            {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\God of War\unins000.exe                                                      
+?????? II ????????????                                                 {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Gothic II\Gothic_II_Classic.bat                                              
+?????? II ???? ??????                                                  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Gothic II\System\GothicStarter.exe                                           
+???????????????? ?????? II ??????? ???????                             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Gothic II\unins000.exe                                                       
+????????? Humans are not that against Lizardwomen                      {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Humans are not that against Lizardwomen\Lizardwomen.exe                      
+????????? Kena Bridge of Spirits                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Kena Bridge of Spirits\Kena.exe                                              
+????????? Mafia Definitive Edition                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Mafia Definitive Edition\mafiadefinitiveedition.exe                          
+????????? Mafia II Definitive Edition                                  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Mafia II Definitive Edition\pc\Mafia II Definitive Edition.exe               
+????????? Launcher Mafia II                                            {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Mafia II Definitive Edition\pc\Mafia2Launcher\Launcher.exe                   
+???????????????? Mafia II Definitive Edition                           {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Mafia II Definitive Edition\unins000.exe                                     
+Games for Windows Marketplace                                          {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games for Windows - LIVE\Client\GFWLive.exe                        
+Excel 2013                                                             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\EXCEL.EXE                                          
+?????? ?????????? ??? Office 2013                                      {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\msoev.exe                                          
+?????? ??????????? ?????????? ??? Office 2013                          {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\msotd.exe                                          
+Publisher 2013                                                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\MSPUB.EXE                                          
+PowerPoint 2013                                                        {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\POWERPNT.EXE                                       
+Word 2013                                                              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\WINWORD.EXE                                        
+????????? Mount and Blade Warband                                      {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Mount and Blade Warband\mb_warband.exe                                       
+???????????????? Mount and Blade Warband                               {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Mount and Blade Warband\unins000.exe                                         
+NekoPara Vol.1                                                         {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\NekoPara Vol.1\nekopara_vol1.exe                                             
+Oblivion                                                               {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Oblivion\OblivionLauncher.exe                                                
+??????? ????                                                           {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Oblivion\unins000.exe                                                        
+PlanetVPN                                                              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\PlanetVPN\PlanetVPN.exe                                                      
+?????? Need for Speed - Most Wanted                                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\R.G. Mechanics\Need for Speed - Most Wanted\speed.exe                        
+Steam                                                                  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\Steam.exe                                                              
+Website                                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\AOM_DC\Afraid of Monsters Director's Cut.url          
+Uninstall                                                              {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\AOM_DC\uninstaomdc.exe                                
+? ???????? Lost Echo                                                   {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Cry of Fear\cryoffear\LOST ECHO - READ ME.txt         
+??????? ?????? CoF                                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Cry of Fear\cryoffear\README v1.6 Game Changes Rus.txt
+? ???????????? CoF                                                     {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Cry of Fear\cryoffear\? ???????????? CoF.rtf          
+????????? The Elder Scrolls V Skyrim - Anniversary Edition             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\The Elder Scrolls V Skyrim - Anniversary Edition\SkyrimSE.exe                
+????????? The Elder Scrolls V Skyrim - Anniversary Edition             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\The Elder Scrolls V Skyrim - Anniversary Edition\SkyrimSELauncher.exe        
+???????????????? The Elder Scrolls V Skyrim - Anniversary Edition      {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\The Elder Scrolls V Skyrim - Anniversary Edition\unins000.exe                
+????????? The Long Dark                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\The Long Dark\tld.exe                                                        
+ODBC Data Sources (32-bit)                                             {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\odbcad32.exe                                                                 
+Windows PowerShell (x86)                                               {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\powershell.exe                                        
+Windows PowerShell ISE (x86)                                           {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\PowerShell_ISE.exe                                    
+???????? ???????                                                       {F38BF404-1D43-42F2-9305-67DE0B28FC23}\regedit.exe                                                                  
+?????????                                                              windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel                                 
+??????.??????                                                          A025C540.Yandex.Music_vfvw9svesycw6!App                                                                             
+Torrent RT FREE                                                        325289AEDD75.TorrentRTFREE_qtx9tqphctw9r!App                                                                        
+?????? ??????                                                          Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App                                                                    
+???????? ?? ????????? ??????                                           Microsoft.ScreenSketch_8wekyb3d8bbwe!App                                                                            
+?????? ????????? ??????????                                            Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App                                                                     
+Realtek Audio Console                                                  RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj!App                                                      
+Cortana                                                                Microsoft.549981C3F5F10_8wekyb3d8bbwe!App                                                                           
+????????? ??????? Xbox                                                 Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp                                                                   
+Thunderbolt? Control Center                                            AppUp.ThunderboltControlCenter_8j3eq9eme6ctt!App                                                                    
+??????                                                                 Microsoft.Getstarted_8wekyb3d8bbwe!App                                                                              
+???????????? Windows                                                   Microsoft.Windows.SecHealthUI_cw5n1h2txyewy!SecHealthUI                                                             
+??????????? ?????????                                                  Microsoft.GetHelp_8wekyb3d8bbwe!App                                                                                 
+???????                                                                Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App                                                                    
+????? ?????????? ???????? Intel?                                       AppUp.IntelGraphicsExperience_8j3eq9eme6ctt!App                                                                     
+OneNote for Windows 10                                                 Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim                                                          
+Paint 3D                                                               Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint                                                                   
+????? ???????                                                          Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App                                                                      
+?????                                                                  Microsoft.WindowsMaps_8wekyb3d8bbwe!App                                                                             
+NVIDIA Control Panel                                                   NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj!NVIDIACorp.NVIDIAControlPanel                                           
+??????                                                                 Microsoft.BingWeather_8wekyb3d8bbwe!App                                                                             
+Solitaire & Casual Games                                               Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App                                                            
+???????? ?????? ??? ?????????????                                      Microsoft.Windows.DevHome_8wekyb3d8bbwe!App                                                                         
+????????? ????????? ??????                                             MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WindowsBackup                                                             
+?????                                                                  microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail                                        
+?????????                                                              microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar                                    
+Outlook (new)                                                          Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows                                               
+???????? 3D-?????????                                                  Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer                                               
+???? ? ??                                                              Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo                                                               
+Blender 3.6.21.0                                                       BlenderFoundation.Blender3.6LTS_ppwjx1n5r4v9t!BLENDER                                                               
+??????                                                                 Microsoft.WindowsCamera_8wekyb3d8bbwe!App                                                                           
+Game Bar                                                               Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App                                                                       
+??????????                                                             Microsoft.Windows.Photos_8wekyb3d8bbwe!App                                                                          
+????                                                                   Microsoft.WindowsAlarms_8wekyb3d8bbwe!App                                                                           
+Microsoft Store                                                        Microsoft.WindowsStore_8wekyb3d8bbwe!App                                                                            
+Microsoft 365 Copilot                                                  Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub                                             
+Armoury Crate                                                          B9ECED6F.ArmouryCrate_qmba6cd70vzyy!App                                                                             
+????? ? ?????????                                                      Microsoft.YourPhone_8wekyb3d8bbwe!App                                                                               
+Aura Creator                                                           B9ECED6F.AURACreator_qmba6cd70vzyy!App                                                                              
+??????????                                                             Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic                                                               
+???????????                                                            Microsoft.WindowsCalculator_8wekyb3d8bbwe!App                                                                       
+Skype                                                                  Microsoft.SkypeApp_kzf8qxf38zg5c!App                                                                                
+WhatsApp                                                               5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App                                                                          
+
+
