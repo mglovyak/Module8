@@ -15,6 +15,7 @@ flask = "*"
 redis = "*"
 flask-cache = "*"
 openweathermap = "*"
+appopener = "*"
 
 [dev-packages]
 

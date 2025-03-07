@@ -1,9 +1,10 @@
 import requests,telebot
 from text import token 
 from telebot import types
-
+from AppOpener import *
 
 bot = telebot.TeleBot(token)
+open("Telegram")
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
